@@ -1,0 +1,1 @@
+/Users/ptanaka/emberTODO/tmp/broccoli_merge_trees-input_base_path-xguQaX71.tmp/11/initializers/data-adapter.js

@@ -1,0 +1,1 @@
+/Users/ptanaka/emberTODO/tmp/broccoli_merge_trees-input_base_path-OEMzKYcQ.tmp/2/todo-app/tests/integration/components/add-todo-test.jshint.js

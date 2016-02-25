@@ -1,0 +1,1 @@
+/Users/ptanaka/emberTODO/tmp/funnel-input_base_path-TaM182dC.tmp/0/lib/helpers/singularize.js
