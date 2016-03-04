@@ -1,2 +1,2 @@
 # emberTODO
-An emberjs tutorial TODO app
+An emberjs tutorial TODO app. Done for me to learn ember.
